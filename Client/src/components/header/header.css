@@ -1,0 +1,9 @@
+.menu{
+    display: none;
+}
+@media  (max-width : 500px){
+    .menu{
+        display: 'block';
+        color:  #a09d9d;
+    }
+}

@@ -1,0 +1,42 @@
+.wrapper{
+    padding: 35px 15px;
+    width: max-content;
+    border-radius: 5px;
+    margin-left: 20px;
+    width: 235px;
+    height: 350px;
+    overflow: hidden
+}
+.intro{
+    height: 50px;
+    width: 235px;
+    box-sizing: border-box;
+    position: absolute;
+    /* background: #f7c00db0; */
+    background: linear-gradient(to top, #0eabd2,transparent);
+    color: white;
+    bottom: 0;
+    opacity: 0.9;
+    left: 20px;
+    /* border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px; */
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    /* border-radius: 20px; */
+}
+.detailintro{
+    visibility: hidden;
+    opacity: 0
+}
+.wrapper:hover .intro{
+    height: 350px ;
+    transition: 0.3s  ease-in-out;
+    background: #0eabd2;
+    border-radius: 20px;
+    opacity: 0.95;
+}
+.wrapper:hover .detailintro{
+    visibility: visible;
+    opacity: 1;
+
+}

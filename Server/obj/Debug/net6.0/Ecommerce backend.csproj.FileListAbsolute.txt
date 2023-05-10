@@ -1,0 +1,56 @@
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\appsettings.json
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Ecommerce backend.exe
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Ecommerce backend.deps.json
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Ecommerce backend.runtimeconfig.json
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Ecommerce backend.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Ecommerce backend.pdb
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Npgsql.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\obj\Debug\net6.0\Ecommerce backend.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\obj\Debug\net6.0\Ecommerce backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\obj\Debug\net6.0\Ecommerce backend.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\obj\Debug\net6.0\Ecommerce backend.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\obj\Debug\net6.0\Ecommerce backend.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\obj\Debug\net6.0\Ecommerce backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\obj\Debug\net6.0\Ecommerce backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\obj\Debug\net6.0\staticwebassets\msbuild.Ecommerce backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\obj\Debug\net6.0\staticwebassets\msbuild.build.Ecommerce backend.props
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce backend.props
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ecommerce backend.props
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\obj\Debug\net6.0\scopedcss\bundle\Ecommerce backend.styles.css
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\obj\Debug\net6.0\Ecommerce backend.csproj.CopyComplete
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\obj\Debug\net6.0\Ecommerce backend.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\obj\Debug\net6.0\refint\Ecommerce backend.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\obj\Debug\net6.0\Ecommerce backend.pdb
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\obj\Debug\net6.0\Ecommerce backend.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\obj\Debug\net6.0\ref\Ecommerce backend.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\AllInOneSDK.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Paytm.Checksum.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Xamarin.Forms.Core.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Xamarin.Forms.Platform.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Xamarin.Forms.Xaml.dll
+C:\Users\lenovo\source\repos\Ecommerce backend\Ecommerce backend\bin\Debug\net6.0\Microsoft.Office.Interop.Excel.dll
